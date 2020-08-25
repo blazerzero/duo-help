@@ -12,10 +12,10 @@ Your job is to flag down inconsistencies or errors in the data provided to you s
 
 ## **Attribute Definitions**
 NOTE: Depending on which scenario you are working on, you may only be working with a subset of these attributes.
-- **Type**:
-- **Region**:
-- **FacilityName**:
-- **Owner**:
-- **Use**:
-- **OwnerType**:
-- **Manager**:
+- **Type**: The type of airfield, i.e. is it an airport, heliport, or seaplane base?
+- **Region**: The region of Alaska the airfield is located in.
+- **FacilityName**: The name of the airfield.
+- **Owner**: The person, group, or entity that owns the airfield.
+- **Use**: The use/access level of the airfield, i.e. is it publicly accessible, for private use only, reserved for some other use, etc.?
+- **OwnerType**: The type of owner that owns the airfield, i.e. is it owned by an individual person or family, is it publicly owned, is it owned by the government, etc.?
+- **Manager**: The person/people or entity that manages/oversees the day-to-day function of this particular airfield.

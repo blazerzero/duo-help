@@ -4,7 +4,7 @@ If you are working on scenario 3 or 4, you will be working on movie data.
 
 For these scenarios, imagine you are the data scientist in charge of ensuring the correctness of this data so that it can be utilized in a new movie data querying interface for the masses. 
 
-Your job is to make sure that the data the public interacts with is as error-free as possible, so you want to flag down as many errors as you can so the data collectors can go back and review their notes.
+Your job is to make sure that the data the public interacts with is as error-free as possible, so you want to flag down any errors you find so the data collectors can go back and review their notes.
 
 ---
 

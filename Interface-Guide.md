@@ -21,4 +21,4 @@ If you have no more feedback left to give or are otherwise done giving feedback,
 ---
 
 ## **The System is Learning From You**
-If it looks like the system is not responding to your feedback with its own error markings, don’t worry! The system is not trying to step over your work, it’s just learning from you with the goal of providing you more useful samples in each iteration 😊
+If it looks like the system is not responding to your feedback with its own error markings, don’t worry! The system is learning from you and is not trying to step over your work 😊

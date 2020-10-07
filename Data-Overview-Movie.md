@@ -15,3 +15,4 @@ NOTE: Depending on which scenario you are working on, you may only be working wi
 - **year**: The year the movie or TV show was released in.
 - **rating**: The content rating of the movie or TV show, as defined by the Movie Picture Association of America (MPAA) or the Federal Communications Commission (FCC), respectively.
 - **director**: The person who directed the movie or TV show. For movies or shows with more than one director but one person that was the lead director, this person is listed as the director in the dataset.
+- **userrating**: An individual user's rating of that movie or TV, out of 5 points.

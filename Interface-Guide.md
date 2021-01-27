@@ -11,12 +11,12 @@ Your feedback will be visible throughout the entire interaction, e.g. if you mar
 ---
 
 ## **What Do I Do if I Don't Have Any New Feedback or Changes?**
-If you do not see any new errors or any changes to previous feedback that need to be made, simply click “Refresh Sample” to see a new sample of data.
+If you do not see any new errors or any changes to previous feedback that need to be made, simply click “Next” to see a new sample of data.
 
 ---
 
 ## **What Do I Do if I Don't Have Any More Feedback Left to Give?**
-If you have no more feedback left to give or are otherwise done giving feedback, simply click "I'm Done" to tell the system you're done with the scenario.
+If you have no more feedback left to give or are otherwise done giving feedback, simply click "Done" to tell the system you're done with the scenario.
 
 ---
 

@@ -16,7 +16,7 @@ If you do not see any new errors or any changes to previous feedback that need t
 ---
 
 ## **What Do I Do if I Don't Have Any More Feedback Left to Give?**
-If you have no more feedback left to give or are otherwise done giving feedback, simply click "Done" to tell the system you're done with the scenario.
+If you have no more feedback left to give or are otherwise done giving feedback, simply click "I'm All Done" to tell the system you're done with the scenario.
 
 ---
 

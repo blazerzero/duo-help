@@ -1,8 +1,8 @@
 # Data Overview: Movie Datasets
 
-If you are working on scenario 3 or 4, you will be working on movie data.
+For these scenarios, you will be working on movie data.
 
-These datasets describe information about various English-language mmovies and TV shows released in 2013 and 2014, such as the name of the movie, its MPAA or FCC rating (e.g. PG-13, R, TV-14), the director of the movie, and ratings of the movie as provided by viewers of the movie.
+These datasets describe information about various English-language movies and TV shows, such as the name of the movie, its MPAA or FCC rating (e.g. PG-13, R, TV-14), the director of the movie, and ratings of the movie as provided by viewers of the movie.
 
 For these scenarios, imagine you are the data scientist in charge of ensuring the correctness of this data so that it can be utilized in a new movie data querying interface for the masses. 
 

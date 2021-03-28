@@ -20,7 +20,7 @@ If you have no more feedback left to give or are otherwise done giving feedback,
 
 ---
 
-### **What If I Don't Know Which of a Pair of Values is the Wrong/Right One?**
+## **What If I Don't Know Which of a Pair of Values is the Wrong/Right One?**
 If you see a pair of violating values but don’t know which one is wrong, you can mark either one of them, or you can mark both! The goal here is not that you know exactly what is the right value, but that you can find violations in the dataset.
 
 ---

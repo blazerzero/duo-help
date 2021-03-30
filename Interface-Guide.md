@@ -1,12 +1,12 @@
 # Interface Guide
 
 ## **How to Give or Change Feedback**
-To mark a cell as a violation, click on the cell. The cell will be highlighted yellow. If you decide at any point this cell is not an error, you can simply click on it again to unmark it, and it will be unhighlighted.
+To mark a cell as a violation of a key or FD, click on the cell. The cell will be highlighted yellow. If you decide at any point this cell is not an violation, you can simply click on it again to unmark it, and it will be unhighlighted.
 
 ---
 
 ## **Your Feedback Persists Throughout the Interaction**
-Your feedback will be visible throughout the entire interaction, e.g. if you marked a cell as erroneous in a previous iteration, and that tuple/row occurs in a subsequent iteration, the cell will reappear as highlighted so that you can review your previous feedback alongside new data. 
+Your feedback will be visible throughout the entire interaction, e.g. if you marked a cell as a violation in a previous iteration, and that tuple/row occurs in a subsequent iteration, the cell will reappear as highlighted so that you can review your previous feedback alongside new data. 
 
 ---
 
@@ -21,7 +21,7 @@ If you have no more feedback left to give or are otherwise done giving feedback,
 ---
 
 ## **What If I Don't Know Which of a Pair of Values is the Wrong/Right One?**
-If you see a pair of violating values but don’t know which one is wrong, you can mark either one of them, or you can mark both! The goal here is not that you know exactly what is the right value, but that you can find violations in the dataset.
+You can mark either one of them, or you can mark both! The goal here is not that you know exactly what is the right value, but that you can find violations of keys/FDs in the dataset.
 
 ---
 

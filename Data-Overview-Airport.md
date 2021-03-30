@@ -1,12 +1,6 @@
 # Data Overview: Airport Datasets
 
-For these scenarios, you will be working on airfield data.
-
-For these scenarios, imagine you are a data scientist tasked with reviewing data about various airports, heliports, and seaplane bases collected by a new field data collector in the U.S. state of Alaska for the purposes of curating a clean, tidy, and organized informational chart about these airfields for professionals.
-
-You have some domain experience with airfields but may have a low to moderate understanding of the geography in Alaska. 
-
-Your job is to flag down any inconsistencies or errors you see in the data provided to you so that flight planners and airspace professionals have accurate information on the airfields in the state when managing the skies.
+For these scenarios, you will be working on airport/airfield data.
 
 ---
 

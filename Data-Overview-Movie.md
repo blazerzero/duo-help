@@ -2,11 +2,7 @@
 
 For these scenarios, you will be working on movie data.
 
-These datasets describe information about various English-language movies and TV shows, such as the name of the movie, its MPAA or FCC rating (e.g. PG-13, R, TV-14), the director of the movie, and ratings of the movie as provided by viewers of the movie.
-
-For these scenarios, imagine you are the data scientist in charge of ensuring the correctness of this data so that it can be utilized in a new movie data querying interface for the masses. 
-
-Your job is to make sure that the data the public interacts with is as error-free as possible, so you want to flag down any errors you find so the data collectors can go back and review their notes and ensure the accuracy of the information in the dataset.
+These datasets describe information about various English-language movies and TV shows, such as the name of the movie, its MPAA or FCC rating (e.g. PG-13, R, TV-14), the director of the movie, and the genre of the movie.
 
 ---
 

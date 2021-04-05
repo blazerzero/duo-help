@@ -21,9 +21,4 @@ If you have no more feedback left to give or are otherwise done giving feedback,
 ---
 
 ## **What If I Don't Know Which of a Pair of Values is the Wrong/Right One?**
-You can mark either one of them, or you can mark both! The goal here is not that you know exactly what is the right value, but that you can find violations of keys/FDs in the dataset.
-
----
-
-## **The System is Learning From You**
-If it looks like the system is not responding to your feedback with its own markings, don’t worry! The system is learning from you and is not trying to step over your work 😊
+You can mark either one of them, or you can mark both! This isn't an error detection problem, so the goal here is not to know or figure out exactly what the right value is, but finding violations of keys/FDs in the dataset.

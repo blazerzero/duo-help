@@ -1,4 +1,4 @@
-# Help and Guides for Duo
+# Modeling User Learning of Keys and Functional Dependencies: Help
 
 ### If You Have Questions About How to Use the Interface:
 [GO TO: Interface Guide](https://github.com/blazerzero/duo-help/blob/master/Interface-Guide.md)
